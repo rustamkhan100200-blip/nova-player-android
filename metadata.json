@@ -1,0 +1,6 @@
+{
+  "name": "Nova Player",
+  "description": "Nova Player — Beyond Watching. Futuristic, cinematic Android media player with smart timeline, scene notebook, and real playback engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
